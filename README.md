@@ -1,5 +1,5 @@
 ![Waves-rgb's github stats](https://github-readme-stats.vercel.app/api?username=Waves-rgb&theme=midnight-purple&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waves-rgb&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waves-rgb&theme=midnight-purple&layout=compact)
 
 (Yes, i'm aware my stats are bad lol)
 <!--
