@@ -1,4 +1,6 @@
-### Hi there 👋
+# hi
+
+![Waves-rgb's github stats](https://github-readme-stats.vercel.app/api?username=Waves-rgb)
 
 <!--
 **Waves-rgb/Waves-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
